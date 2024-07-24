@@ -1,0 +1,12 @@
+D:\AzureProjects\Learning\nada\internship1\internship\internship\bin\Debug\net7.0-windows\internship.deps.json
+D:\AzureProjects\Learning\nada\internship1\internship\internship\bin\Debug\net7.0-windows\internship.dll
+D:\AzureProjects\Learning\nada\internship1\internship\internship\bin\Debug\net7.0-windows\internship.pdb
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.csproj.AssemblyReference.cache
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.GeneratedMSBuildEditorConfig.editorconfig
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.AssemblyInfoInputs.cache
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.AssemblyInfo.cs
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.csproj.CoreCompileInputs.cache
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.dll
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\refint\internship.dll
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\internship.pdb
+D:\AzureProjects\Learning\nada\internship1\internship\internship\obj\Debug\net7.0-windows\ref\internship.dll
