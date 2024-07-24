@@ -11,7 +11,7 @@ using System.Xml.Serialization;
 
 namespace SkyMax
 {
-    // Generic DataHandler Class
+    // Generic DataHandler Class frg
     public class DataHandler<T>
     {
         // Ensure the key length is appropriate for AES-128 encryption
